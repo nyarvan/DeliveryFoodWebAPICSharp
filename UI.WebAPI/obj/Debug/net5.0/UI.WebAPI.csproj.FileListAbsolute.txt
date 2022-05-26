@@ -1,0 +1,416 @@
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Extensions.Autofac.DependencyInjection.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.xml
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\scopedcss\bundle\UI.WebAPI.styles.css
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.exe
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.deps.json
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.json
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.dev.json
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CopyComplete
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.genruntimeconfig.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.StaticWebAssets.xml
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.exe
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.deps.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.dev.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Extensions.Autofac.DependencyInjection.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.AssemblyReference.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfoInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfo.cs
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\scopedcss\bundle\UI.WebAPI.styles.css
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CopyComplete
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.genruntimeconfig.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.exe
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.deps.json
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Extensions.Autofac.DependencyInjection.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.xml
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\scopedcss\bundle\UI.WebAPI.styles.css
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CopyComplete
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\ref\UI.WebAPI.dll
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.genruntimeconfig.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.AssemblyReference.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfoInputs.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfo.cs
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CoreCompileInputs.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\ref\UI.WebAPI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.StaticWebAssets.xml
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.exe
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.deps.json
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.json
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.dev.json
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ref\UI.WebAPI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Extensions.Autofac.DependencyInjection.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.pdb
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\scopedcss\bundle\UI.WebAPI.styles.css
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.Manifest.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.RazorTargetAssemblyInfo.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CopyComplete
+C:\НАУ\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.genruntimeconfig.cache
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\НАУ\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.StaticWebAssets.xml
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.exe
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.deps.json
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.json
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.runtimeconfig.dev.json
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ref\UI.WebAPI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UI.WebAPI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\MediatR.Extensions.Autofac.DependencyInjection.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\BLL_Modules.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\CommandsAndQueries.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\DataBase.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\UoW.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\ViewModels.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\bin\Debug\net5.0\Repository.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.AssemblyReference.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfoInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.AssemblyInfo.cs
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CoreCompileInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\scopedcss\bundle\UI.WebAPI.styles.css
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\staticwebassets\UI.WebAPI.StaticWebAssets.Manifest.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.RazorTargetAssemblyInfo.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\ref\UI.WebAPI.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UI.WebAPI\obj\Debug\net5.0\UI.WebAPI.genruntimeconfig.cache

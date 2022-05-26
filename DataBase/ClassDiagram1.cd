@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataBase.DeliveryContext">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAEAAACAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Context\DeliveryContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Delivery">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAAAAAAKAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Entities\Delivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Food">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAQAAJAAAAAAAAAQAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Set">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\Set.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.DataBaseModule">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module\DataBaseModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.DbContextOptionsFactory">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Options\DbContextOptionsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

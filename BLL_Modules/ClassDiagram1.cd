@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL_Modules.CommandsAndQueriesModule">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module\CommandsAndQueriesModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandsAndQueries.AddDeliveryCommand">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.AddDeliveryCommandHandler">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveDeliveryCommand">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveDeliveryCommandHandler">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateDeliveryCommand">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateDeliveryCommandHandler">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.AddFoodCommand">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.AddFoodCommandHandler">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveFoodCommand">
+    <Position X="7.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveFoodCommandHandler">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateFoodCommand">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateFoodCommandHandler">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.AddSetCommand">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.AddSetCommandHandler">
+    <Position X="16.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveSetCommand">
+    <Position X="15" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.RemoveSetCommandHandler">
+    <Position X="16.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateSetCommand">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.UpdateSetCommandHandler">
+    <Position X="16.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.NotFoundException">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.DeliveryMapper">
+    <Position X="2.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.FoodMapper">
+    <Position X="9.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.SetMapper">
+    <Position X="16.75" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetDeliveryQuery">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetDeliveryListQuery">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetDeliveryListQueryHandler">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.FoodQuery">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.FoodQueryHandler">
+    <Position X="11.25" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetFoodQuery">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetFoodQueryHandler">
+    <Position X="11.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetSetQuery">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetSetQueryHandler">
+    <Position X="18.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetSetListQuery">
+    <Position X="18.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CommandsAndQueries.GetSetListQueryHandler">
+    <Position X="18.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModels.DeliveryModel">
+    <Position X="5.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModels.FoodModel">
+    <Position X="13" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModels.SetModel">
+    <Position X="20.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModels.ObservableObject">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

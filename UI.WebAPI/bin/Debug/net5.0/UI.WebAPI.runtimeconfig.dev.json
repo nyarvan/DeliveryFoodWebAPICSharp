@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lagge\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lagge\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+C:\Users\user\source\repos\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\user\source\repos\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\user\source\repos\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\source\repos\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\Desktop\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\user\Desktop\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\Desktop\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\Desktop\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\Desktop\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\Desktop\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\НАУ\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\Архитектура\lab4.6-4.7\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8645ed4-8c3a-4c88-a0ca-42c6d9f11113": {
+      "ProjectGuid": "f8645ed4-8c3a-4c88-a0ca-42c6d9f11113",
+      "DisplayName": "UI.WebAPI",
+      "ColorIndex": 0
+    },
+    "f00d3076-85e9-4308-8bb7-c9512ee12ce4": {
+      "ProjectGuid": "f00d3076-85e9-4308-8bb7-c9512ee12ce4",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "1f60604f-2506-474a-b661-d55f1d1e38ce": {
+      "ProjectGuid": "1f60604f-2506-474a-b661-d55f1d1e38ce",
+      "DisplayName": "CommandsAndQueries",
+      "ColorIndex": 2
+    },
+    "f048f798-b16b-4ec0-a0a3-6716b19fe344": {
+      "ProjectGuid": "f048f798-b16b-4ec0-a0a3-6716b19fe344",
+      "DisplayName": "DataBase",
+      "ColorIndex": 3
+    },
+    "f3f27a8a-dfb6-440b-8148-b91bd5817e6f": {
+      "ProjectGuid": "f3f27a8a-dfb6-440b-8148-b91bd5817e6f",
+      "DisplayName": "UoW",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "949dd6b9-c84f-445f-83d0-95feb9395808": {
+      "ProjectGuid": "949dd6b9-c84f-445f-83d0-95feb9395808",
+      "DisplayName": "ViewModels",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

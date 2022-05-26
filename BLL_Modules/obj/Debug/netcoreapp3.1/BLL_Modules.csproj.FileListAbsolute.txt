@@ -1,0 +1,103 @@
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.deps.json
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfo.cs
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CopyComplete
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\user\source\repos\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.deps.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.AssemblyReference.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfoInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfo.cs
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CoreCompileInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CopyComplete
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.deps.json
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CopyComplete
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\Users\user\Desktop\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.AssemblyReference.cache
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfoInputs.cache
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfo.cs
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CoreCompileInputs.cache
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.deps.json
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\НАУ\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.deps.json
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\BLL_Modules.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\CommandsAndQueries.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.AssemblyReference.cache
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfoInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.AssemblyInfo.cs
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CoreCompileInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.dll
+C:\НАУ\Архитектура\lab4.6-4.7\BLL_Modules\obj\Debug\netcoreapp3.1\BLL_Modules.pdb

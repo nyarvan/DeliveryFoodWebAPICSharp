@@ -1,0 +1,73 @@
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfo.cs
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.deps.json
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CopyComplete
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\source\repos\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.deps.json
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.AssemblyReference.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfoInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfo.cs
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CoreCompileInputs.cache
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CopyComplete
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.dll
+C:\Users\bagde\OneDrive\Рабочий стол\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.deps.json
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfo.cs
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CopyComplete
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.dll
+C:\Users\user\Desktop\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.deps.json
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.AssemblyReference.cache
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfoInputs.cache
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfo.cs
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CoreCompileInputs.cache
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CopyComplete
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.deps.json
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\UoW.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.AssemblyReference.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfoInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.AssemblyInfo.cs
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CoreCompileInputs.cache
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.csproj.CopyComplete
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.dll
+C:\НАУ\Архитектура\lab4.6-4.7\UoW\obj\Debug\netcoreapp3.1\UoW.pdb

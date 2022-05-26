@@ -1,0 +1,540 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UI.WebAPI\\UI.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\BLL_Modules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\BLL_Modules.csproj",
+        "projectName": "BLL_Modules",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\BLL_Modules.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "MediatR.Extensions.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj",
+        "projectName": "CommandsAndQueries",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UI.WebAPI\\UI.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UI.WebAPI\\UI.WebAPI.csproj",
+        "projectName": "UI.WebAPI",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UI.WebAPI\\UI.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UI.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\BLL_Modules.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\BLL_Modules\\BLL_Modules.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\CommandsAndQueries\\CommandsAndQueries.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "MediatR.Extensions.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj",
+        "projectName": "UoW",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\UoW.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\UoW\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\DataBase\\DataBase.csproj"
+              },
+              "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\lagge\\.nuget\\packages\\",
+        "outputPath": "C:\\НАУ\\Архитектура\\lab4.6-4.7\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lagge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
